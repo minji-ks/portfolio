@@ -12,7 +12,8 @@ body {
 
 .profile {
     width: 180px;
-    border-radius:50%;
+    border-radius:25%;
+    border: solid 5px white;
 }
 
 .highlight {
